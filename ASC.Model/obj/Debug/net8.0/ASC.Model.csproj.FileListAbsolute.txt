@@ -11,16 +11,16 @@ D:\KTPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
 D:\KTPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
 D:\KTPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
 D:\KTPM\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.deps.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.AssemblyReference.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfoInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.AssemblyInfo.cs
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.sourcelink.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\refint\ASC.Model.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ASC.Model.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Model\obj\Debug\net8.0\ref\ASC.Model.dll

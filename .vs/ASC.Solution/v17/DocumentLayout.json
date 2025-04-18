@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\Th\u1EF1c H\u00E0nh Ki\u1EBFn Tr\u00FAc\\TH_KienTruc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\th\u1EF1c h\u00E0nh ki\u1EBFn tr\u00FAc\\th_kientruc\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\Th\u1EF1c H\u00E0nh Ki\u1EBFn Tr\u00FAc\\TH_KienTruc\\ASC.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\Th\u1EF1c H\u00E0nh Ki\u1EBFn Tr\u00FAc\\TH_KienTruc\\ASC.Web\\appsettings.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T07:39:39.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

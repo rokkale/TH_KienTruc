@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1pIxZcG6/s=",
+  "dgSpecHash": "2xRNk/8V/+w=",
   "success": true,
-  "projectFilePath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rokka\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.3.0\\microsoft.aspnetcore.cryptography.internal.2.3.0.nupkg.sha512",
     "C:\\Users\\rokka\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.3.0\\microsoft.aspnetcore.dataprotection.2.3.0.nupkg.sha512",

@@ -34,7 +34,13 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 // -->
 builder.Services.AddScoped<DbContext, ApplicationDbContext>();
 
-
+builder.Services.AddAuthentication()
+    .AddGoogle(options =>
+    {
+        options.ClientId = "728948997346-ogqt60e5i18jclbjiv27leabs90qvtkq.apps.googleusercontent.com";
+        options.ClientSecret = "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";
+    });
+builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 /*builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();*/
@@ -48,14 +54,14 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddTransient<IEmailSender, AuthMessageSender>();
 builder.Services.AddTransient<ISmsSender, AuthMessageSender>();
-
+//Addition lab4
+builder.Services.AddSession();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 //End lab4
 builder.Services.AddSingleton<IIdentitySeed, IdentitySeed>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddDistributedMemoryCache();
-//Addition lab4
-builder.Services.AddSession();
-builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
 
 var app = builder.Build();
 

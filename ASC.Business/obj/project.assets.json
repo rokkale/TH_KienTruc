@@ -3829,11 +3829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+      "projectUniqueName": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
       "projectName": "ASC.Business",
-      "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+      "projectPath": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
       "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-      "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Business\\obj\\",
+      "outputPath": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3854,11 +3854,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-              "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
+            "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
             },
-            "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
-              "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution (1)\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
+            "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+              "projectPath": "C:\\Users\\rokka\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\\ASC.Solution\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
             }
           }
         }

@@ -11,16 +11,16 @@ D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
 D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
 D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
 D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll

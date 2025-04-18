@@ -16,21 +16,21 @@ D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
 D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
 D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
 D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
-D:\Học Tập\Kiến Trúc\ASC.Solution (1)\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+C:\Users\rokka\AppData\Local\Temp\MicrosoftEdgeDownloads\2555bd29-8ba9-4542-b8c1-0a4cbc7a1b77\ASC.Solution\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
